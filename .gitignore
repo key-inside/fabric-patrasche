@@ -1,0 +1,13 @@
+# OSX
+.DS_Store
+
+# Test
+*.test
+test/fixtures/*
+!test/fixtures/sample/
+
+# Go module
+vendor/
+
+# Artifacts of the Fabric SDK
+keystore/
