@@ -46,7 +46,7 @@ package dapp
 
 import (
     "github.com/spf13/cobra"
-    "github.com/key-inside/fabric-patrasche"
+    patrasche "github.com/key-inside/fabric-patrasche"
     "github.com/key-inside/fabric-patrasche/cmd/ccquery"
     "github.com/key-inside/fabric-patrasche/cmd/inspect"
 )
